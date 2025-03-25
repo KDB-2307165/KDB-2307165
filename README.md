@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/122802541/287153982-11c38f1f-24dc-42f7-94b7-fd520cf8c5b7.gif" alt="banner" width="100%" />
 </p>
-<img src="https://user-images.githubusercontent.com/122802541/287153982-11c38f1f-24dc-42f7-94b7-fd520cf8c5b7.gif" width="100%" />
 
 
 
@@ -87,7 +86,7 @@
 <!-- 🔥 방문자 수 카운터 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KDB-2307165&label=Visitors&color=blue&style=flat" alt="Visitor Badge" />
-</p
+</p>
 
 <!-- 🛠 기술 스택 뱃지 -->
 <p align="center">
