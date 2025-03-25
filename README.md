@@ -1,6 +1,6 @@
 <!-- 🎬 상단 배너 이미지 (GIF 가능) -->
 <p align="center">
-  <img src="https://i.imgur.com/nZQZ4Yx.gif" alt="banner" width="100%" />
+  <img src="![Image](https://github.com/user-attachments/assets/3aa3de7b-f53e-4cf8-a009-c7318f6de070)" alt="banner" width="100%" />
 </p
 
 
