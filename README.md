@@ -1,6 +1,6 @@
 <!-- 🎬 상단 배너 이미지 (GIF 가능) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122802541/287153982-11c38f1f-24dc-42f7-94b7-fd520cf8c5b7.gif" alt="banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/79e74895-2547-4d03-b388-4c6c5f90a96e" alt="banner" width="100%" />
 </p>
 
 
