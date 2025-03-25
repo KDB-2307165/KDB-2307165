@@ -1,3 +1,8 @@
+<!-- 🎬 상단 배너 이미지 (GIF 가능) -->
+<p align="center">
+  <img src="https://i.imgur.com/nZQZ4Yx.gif" alt="banner" width="100%" />
+</p
+
 
 # 🎮 안녕하세요, 스마일게이트 스토브에서 로스트아크 운영을 담당하고 있는 게임 운영자입니다!
 
@@ -72,3 +77,32 @@
 
 
 ## **위에 내용들은 사실이 아닌 희망사항임을 강조합니다**
+
+
+
+
+
+<!-- 🔥 방문자 수 카운터 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KDB-2307165&label=Visitors&color=blue&style=flat" alt="Visitor Badge" />
+</p
+
+<!-- 🛠 기술 스택 뱃지 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<!-- 📈 GitHub Stats 카드 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KDB-2307165&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDB-2307165&layout=compact&theme=dark" height="150"/>
+</p>
+
+<!-- 🧱 GitHub 활동 그래프 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDB-2307165&theme=github-compact&hide_border=true" />
+</p>
